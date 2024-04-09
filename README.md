@@ -1,5 +1,4 @@
 
-https://github.com/SantraptiNayak/Bunny-Mad-Lib/assets/107788748/c6126ba8-bad5-4743-95f1-55b58906bc75
 # Bunny-Mad-Lib
 Mad libs generator is a fun game that is usually played by kids. In this python game user has to enter substitutes for blanks in the story without knowing the story. It will be fun to read aloud the stories after filling the blanks.
 
