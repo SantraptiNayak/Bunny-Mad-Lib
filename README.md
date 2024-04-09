@@ -7,7 +7,7 @@ The design of the code for the Mad Libs with Python should be in a manner that i
 # working
 
 
-https://github.com/SantraptiNayak/Bunny-Mad-Lib/assets/107788748/5eef47e7-2bf0-44cf-8358-c38be5962478
+https://github.com/SantraptiNayak/Bunny-Mad-Lib/assets/107788748/89dc32f8-b7f0-4573-a3f9-63d23efcfd56
 
 
 # How to run?
